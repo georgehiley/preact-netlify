@@ -53,5 +53,5 @@ collections:
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false}
       - { label: "Image", name: "cover", widget: "image", required: false}
       - { label: "Tags", name: "tags", widget: "string" }
-      - { label: "Description", name: "body", widget: "markdown"}
+      - { label: "Description", name: "desc", widget: "markdown"}
       - { label: "Body", name: "body", widget: "markdown"}
